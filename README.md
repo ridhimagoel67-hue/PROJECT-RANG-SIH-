@@ -105,8 +105,8 @@ RANG's digital storefront is live at **[project--rang.vercel.app](https://projec
 
 The full SIH idea presentation is included directly in this repo:
 
-- **[Rang_SIH_2026.pptx](Rang_SIH_2026.pptx)** — editable original
-- **[Rang_SIH_2026.pdf](Rang_SIH_2026.pdf)** — PDF version, viewable straight in the browser on GitHub
+- **[Rang_SIH_2026.pptx](submission/Rang_SIH_2026.pptx)** 
+- **[Rang_SIH_2026.pdf](submission/Rang_SIH_2026.pdf)** 
 
 ## 11. Demo Video
 
