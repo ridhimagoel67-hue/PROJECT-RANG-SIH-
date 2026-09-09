@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Env / secrets
+.env
+*.pem
+*.key
+
+# Large raw exports (keep only final assets in the repo)
+*.psd
+*.ai
